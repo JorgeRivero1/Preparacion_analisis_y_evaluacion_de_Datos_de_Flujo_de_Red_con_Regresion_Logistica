@@ -1,3 +1,4 @@
+🏷️[Abrir Proyecto](https://github.com/JorgeRivero1/Preparacion_analisis_y_evaluacion_de_Datos_de_Flujo_de_Red_con_Regresion_Logistica/blob/main/Preparaci%C3%B3n%2C%20an%C3%A1lisis%20y%20evaluaci%C3%B3n%20de%20Datos%20de%20Flujo%20de%20Red%20%2C%20Regresi%C3%B3n%20Log%C3%ADstica-checkpoint.ipynb)
 ## 📊 Análisis de Datos de Flujo de Red con Regresión Logística
 
 ### 📌 Descripción del Proyecto
